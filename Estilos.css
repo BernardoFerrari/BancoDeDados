@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+}
+
+div{
+    text-align: center;
+    padding: 2px;
+    font-size: 2pt;
+    border-radius: 0.6rem;
+}
+
+nav{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: rgb(218, 218, 218);
+    background-color: rgb(48, 47, 47);
+    padding: 3px;
+    font-size: 12pt;
+    border-radius: 0.4rem;
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(243, 241, 241);
+    background-color:rgb(36, 35, 35)
+    padding: 3px;
+    font-size: 12pt;
+}
+
+h1{
+    text-align: center;
+    color: rgb(160, 160, 160);
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    color: rgb(190, 190, 189);
+}
+
+p{
+    color: rgb(3, 3, 3);
+    text-align: justify;
+    font-size: 12pt;
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 0.8rem;
+}
+
+.ancora{
+    opacity: 0.0;
+}
+
+img{
+    height: 300px;
+    width: 600px;
+    text-align: center;
+}

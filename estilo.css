@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(0, 0, 0));
+}
+
+h1{
+    text-align: center;
+    color: rgb(56, 56, 56);
+}
+
+h5{
+    color:  rgb(56, 56, 56);
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+div{
+    text-align: right;
+}
